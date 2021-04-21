@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hschickdevs
-- 🌱 I’m currently learning ... Python and Swift
+- 🌱 I’m currently learning Python and Swift
 
 <!---
 hschickdevs/hschickdevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
