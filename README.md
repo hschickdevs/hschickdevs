@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hschickdevs
+- 👋 Hi, I’m Harrison
 - 🌱 I’m currently learning Python and Swift
 
 <!---
