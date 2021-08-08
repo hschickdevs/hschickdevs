@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Harrison
-- 🌱 I’m currently learning Python and Swift
+## 👋 Hi, I’m Harrison!
+##👨‍💻 I specialize in Python and Swift Programming.
 
 <!---
 hschickdevs/hschickdevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
