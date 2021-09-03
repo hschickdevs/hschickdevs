@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Harrison!
-## 👨‍💻 I specialize in Python programming for financial applications.
+## 💻💻 I specialize in Python programming for financial applications.
 
 <!---
 hschickdevs/hschickdevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
