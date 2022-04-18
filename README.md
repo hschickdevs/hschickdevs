@@ -11,7 +11,7 @@
 
 - 💻 &nbsp; Python3 | C++ | Swift | SQL 
 - 🌐 &nbsp; HTML | CSS  | Django
-- 🔧 &nbsp; Git | Docker | Markdown 
+- 🔧 &nbsp; Git | Docker | Markdown | MS Office
 
 <!---
 <br/>
