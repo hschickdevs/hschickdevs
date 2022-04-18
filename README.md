@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Developing my Quantitative Finance Skills | Programming in Python & C++
 - 🎓 &nbsp; Undergraduate Studying Investment Finance & Blockchain Tech | Preparing for Chartered Market Technician (CMT)
-- 💼 &nbsp; Working as a Python Developer for PathX AI LLC
+- 💼 &nbsp; Working as a Python Quantitative Developer for PathX AI LLC
 - 🌱 &nbsp; Completing [External Courses](https://github.com/hschickdevs/Relevant-Coursework) to Bolster my Knowledge of Finance and Computer Science
 
 <h3>🛠 Tech Stack</h3>
