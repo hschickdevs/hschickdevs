@@ -2,14 +2,14 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Developing my Quantitative Finance Development skills; programming in Python & C++
+- 🤔 &nbsp; Developing my Quantitative Finance Skills | Programming in Python & C++
 - 🎓 &nbsp; Undergraduate Studying Investment Finance & Blockchain Tech | Preparing for Chartered Market Technician (CMT)
 - 💼 &nbsp; Working as a Quantitative Developer for PathX AI LLC
 - 🌱 &nbsp; Completing Online Courses to Bolster my Knowledge of Finance and Computer Science
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++ | Swift | SQL 
+- 💻 &nbsp; Python3 | C++ | Swift | SQL 
 - 🌐 &nbsp; HTML | CSS  | Django
 - 🔧 &nbsp; Git | Docker | Markdown 
 
