@@ -11,7 +11,7 @@
 
 - 💻 &nbsp; Python3 | C++ | Swift | SQL 
 - 🌐 &nbsp; HTML | CSS  | Django | [Anvil](https://anvil.works/)
-- 🔧 &nbsp; Git | Docker | Markdown | MS Office
+- 🔧 &nbsp; Git | Docker | Markdown | GCP | MS Office
 
 <!---
 <br/>
