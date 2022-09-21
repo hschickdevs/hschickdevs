@@ -20,7 +20,7 @@
 --->
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Find Me </h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/harrison-schick-84a7b6197/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harrison-%230077B5.svg?&style=for-the-badge&logo=linkedin"></a>
