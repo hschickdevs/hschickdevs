@@ -9,9 +9,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python3 | C++ | Solidity | Swift | JS
+- 💻 &nbsp; Python3 | C++ | Solidity | Swift | JS | SQL
 - 🌐 &nbsp; HTML | CSS  | Flask & Django | [Anvil](https://anvil.works/)
-- 🔧 &nbsp; Git | Docker | Markdown | GCP | SQL | GraphQL
+- 🔧 &nbsp; Git | Docker | Markdown | GCP | GraphQL
 
 <!---
 <br/>
