@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/harrison-schick-84a7b6197/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harrison-%230077B5.svg?&style=for-the-badge&logo=linkedin"></a>
 <a href="https://www.upwork.com/freelancers/~01443dc2db3e2656fe"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-Harrison-%230077B5.svg?&style=for-the-badge&logo=upwork&color=success"></a>
 <a href="https://medium.com/@hschick"><img alt="Medium" src="https://img.shields.io/badge/Medium-Harrison-%230077B5.svg?&style=for-the-badge&logo=medium&color=black"></a>
-<a href="https://medium.com/@hschick"><img alt="Discord" src="https://img.shields.io/badge/Discord-Harrison-%230077B5.svg?&style=for-the-badge&logo=medium&color=blue"></a>
+<!-- <a href="https://medium.com/@hschick"><img alt="Discord" src="https://img.shields.io/badge/Discord-Harrison-%230077B5.svg?&style=for-the-badge&logo=medium&color=blue"></a> -->
 </p>
 
 <!---
