@@ -38,8 +38,8 @@
   </summary>
   <p float="left">
     <a href="https://github.com/hschickdevs/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hschickdevs&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Harrison's%20GitHub%20Stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hschickdevs&hide=jupyter%20notebook,html&langs_count=10&theme=react&layout=compact&exclude_repo=nusmods,russelldash332.github.io&title_color=dd58c1"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hschickdevs&count_private=true&hide_rank=false&show_icons=true&theme=dark&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Harrison's%20GitHub%20Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hschickdevs&hide=jupyter%20notebook,html&langs_count=10&theme=dark&layout=compact&exclude_repo=nusmods,russelldash332.github.io&title_color=dd58c1"/>
     </a>
   </p>
 </details>
