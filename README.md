@@ -16,15 +16,6 @@
 
 <!---
 <br/>
-
-<p float="left">
-  <a href="https://github.com/hschickdevs/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hschickdevs&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Russell's%20GitHub%20Stats" />
-  <!--
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hschickdevs&hide=jupyter%20notebook,html&langs_count=10&theme=react&layout=compact&exclude_repo=nusmods,russelldash332.github.io&title_color=dd58c1"/>
-  -->
-  </a>
-</p>
 --->
 
 
@@ -41,7 +32,14 @@
 <a href="https://steamcommunity.com/id/438989434389/"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
 
-![Harrison's GitHub stats](https://github-readme-stats.vercel.app/api?username=hschickdevs&count_private=true)
+<p float="left">
+  <a href="https://github.com/hschickdevs/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hschickdevs&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Russell's%20GitHub%20Stats" />
+  <!--
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hschickdevs&hide=jupyter%20notebook,html&langs_count=10&theme=react&layout=compact&exclude_repo=nusmods,russelldash332.github.io&title_color=dd58c1"/>
+  -->
+  </a>
+</p>
 
 <!---
 hschickdevs/hschickdevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
