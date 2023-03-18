@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 <!-- - 🤔 &nbsp; Enriching my Quantitative Development Skills in Python & C++ -->
-- 🤔 &nbsp; Looking for Opportunities in FinTech & Web3
+- 🤔 &nbsp; Exploring Opportunities in FinTech & Web3
 - 🎓 &nbsp; Undergraduate Studying Investment Finance & Blockchain | Preparing for [MS-SE](https://catalog.utdallas.edu/2022/graduate/programs/ecs/software-engineering)
 - 💼 &nbsp; Working as a Quantitative Developer for PathX AI LLC
 - 🌱 &nbsp; Completing [Relevant Courses](https://github.com/hschickdevs/Relevant-Coursework) to Bolster my Knowledge of Finance and Computer Science
