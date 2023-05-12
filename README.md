@@ -32,7 +32,7 @@
 <a href="https://steamcommunity.com/id/438989434389/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
 
-<details>
+<details open>
   <summary>
     <h3> 📊 My Stats </h3>
   </summary>
