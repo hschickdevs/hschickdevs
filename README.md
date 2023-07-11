@@ -4,7 +4,7 @@
 
 <!-- - 🤔 &nbsp; Enriching my Quantitative Development Skills in Python & C++ -->
 - 🤔 &nbsp; Exploring Opportunities in FinTech & Web3
-- 🎓 &nbsp; Undergraduate Studying Investment Finance & Blockchain | Preparing for Graduate Study
+- 🎓 &nbsp; Undergraduate Studying Investment Finance & Blockchain | Completing Graduate Studies in UT Austin's MSITM Program
 - 💼 &nbsp; Working as a Quantitative Developer for PathX AI LLC
 - 🌱 &nbsp; Completing [Relevant Courses](https://github.com/hschickdevs/Relevant-Coursework) to Bolster my Knowledge of Finance and Computer Science
 
