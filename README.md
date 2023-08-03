@@ -5,14 +5,14 @@
 <!-- - 🤔 &nbsp; Enriching my Quantitative Development Skills in Python & C++ -->
 - 🤔 &nbsp; Exploring Opportunities in FinTech & Web3
 - 🎓 &nbsp; Completing Graduate Studies in the University of Texas at Austin's MSITM Program
-- 💼 &nbsp; Working as a Quantitative Developer for PathX AI LLC
+- 💼 &nbsp; Working as CTO at [NuminaS](https://www.numinas.xyz)
 - 🌱 &nbsp; Completing [Relevant Courses](https://github.com/hschickdevs/Relevant-Coursework) to Bolster my Knowledge of Finance and Computer Science
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C++ | Solidity | Swift | JS | SQL
 - 🌐 &nbsp; HTML | CSS  | Flask & Django | [Anvil](https://anvil.works/)
-- 🔧 &nbsp; Git | Docker | Markdown | GCP | AWS | GraphQL
+- 🔧 &nbsp; Git | Docker | Markdown | GCP | AWS | GraphQL | MongoDB
 
 <!---
 <br/>
