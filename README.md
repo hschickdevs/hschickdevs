@@ -12,7 +12,8 @@
 
 - 💻 &nbsp; Python | C++ | Solidity | Swift | JS | SQL
 - 🌐 &nbsp; HTML | CSS  | Flask & Django | [Anvil](https://anvil.works/)
-- 🔧 &nbsp; Git | Docker | Markdown | GCP | AWS | GraphQL | MongoDB
+- 💾 &nbsp; MySQL | PostgreSQL | MongoDB
+- 🔧 &nbsp; Git | Docker | Markdown | GCP | AWS | GraphQL
 
 <!---
 <br/>
