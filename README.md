@@ -33,6 +33,14 @@
 <a href="https://steamcommunity.com/id/438989434389/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
 
+
+<h3> 🏆 Personal Portfolio </h3>
+
+I'm proud of the projects I've built over the years. Here's a curated list of some of my favorites:
+
+[🔗 View My Personal Portfolio on GitHub](https://github.com/stars/hschickdevs/lists/personal-portfolio)
+
+
 <details open>
   <summary>
     <h3> 📊 My Stats </h3>
