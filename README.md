@@ -20,7 +20,7 @@
 --->
 
 
-<h3> 🏆 Personal Portfolio </h3>
+<h3> 🎨 Personal Portfolio </h3>
 
 I'm proud of the projects I've built over the years. Here's a curated list of some of my favorites:
 
