@@ -4,7 +4,7 @@
 
 <!-- - 🤔 &nbsp; Enriching my Quantitative Development Skills in Python & C++ -->
 - 🤔 &nbsp; Exploring Opportunities in FinTech & Web3
-- 🎓 &nbsp; Completing Graduate Studies @ the University of Texas at Austin [MSITM Program](https://www.mccombs.utexas.edu/graduate/ms-programs/ms-it-and-management/)
+- 🎓 &nbsp; Completing Graduate Studies @ the University of Texas at Austin [MSITM Program](https://www.mccombs.utexas.edu/graduate/specialized-masters/msitm/academics/)
 - 💼 &nbsp; Working as CTO @ [NuminaS](https://www.numinas.xyz)
 - 🌱 &nbsp; Completing [Relevant Courses](https://github.com/hschickdevs/Relevant-Coursework) to Bolster my Knowledge of Finance and Computer Science
 
