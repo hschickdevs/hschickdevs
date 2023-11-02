@@ -5,7 +5,7 @@
 <!-- - 🤔 &nbsp; Enriching my Quantitative Development Skills in Python & C++ -->
 - 🤔 &nbsp; Exploring Opportunities in FinTech & Web3
 - 🎓 &nbsp; Completing Graduate Studies @ the University of Texas at Austin [MSITM Program](https://www.mccombs.utexas.edu/graduate/specialized-masters/msitm/academics/)
-- 💼 &nbsp; Working on my Open Source Projects & Contract Work in the FinTech Space
+- 💼 &nbsp; Working on My Open Source Projects & Contract Work in the FinTech Space
 - 🌱 &nbsp; Completing [Relevant Courses](https://github.com/hschickdevs/Relevant-Coursework) to Bolster my Knowledge of Finance and Computer Science
 
 <h3>🛠 Tech Stack</h3>
