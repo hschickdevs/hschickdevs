@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C++ | Solidity | Swift | JS | SQL
-- 🌐 &nbsp; HTML | CSS  | Flask & Django | [Anvil](https://anvil.works/)
+- 🌐 &nbsp; HTML | CSS  | Flask & Django | Streamlit
 - 💾 &nbsp; MySQL | PostgreSQL | MongoDB
 - 🔧 &nbsp; Git | Docker | Markdown | GCP | AWS | GraphQL
 
