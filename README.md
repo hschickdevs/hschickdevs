@@ -24,7 +24,7 @@
 
 I'm proud of the projects I've built over the years. Here's a curated list of some of my favorites:
 
-[**🔗 View My Personal Portfolio on GitHub**](https://github.com/stars/hschickdevs/lists/personal-portfolio)
+[**🔗 View My Portfolio on GitHub**](https://github.com/stars/hschickdevs/lists/personal-portfolio)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
