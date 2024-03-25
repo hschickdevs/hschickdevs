@@ -13,7 +13,7 @@
 - 💻 &nbsp; Python | C++ | Solidity | Swift | JS | SQL
 - 🌐 &nbsp; HTML | CSS  | Flask & Django | Streamlit
 - 💾 &nbsp; MySQL | PostgreSQL | MongoDB
-- 🔧 &nbsp; Git | Docker | Markdown | GCP | AWS | GraphQL
+- 🔧 &nbsp; Git | Docker | Markdown | GCP | AWS | Azure | GraphQL
 
 <!---
 <br/>
