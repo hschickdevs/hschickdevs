@@ -4,14 +4,14 @@
 
 <!-- - 🤔 &nbsp; Enriching my Quantitative Development Skills in Python & C++ -->
 - 🤔 &nbsp; Exploring Opportunities in FinTech & Web3
-- 🎓 &nbsp; Completing Graduate Studies @ the University of Texas at Austin [MSITM Program](https://www.mccombs.utexas.edu/graduate/specialized-masters/msitm/academics/)
+- 🎓 &nbsp; Completing Graduate Studies in the University of Texas at Austin [MSITM Program](https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-it-and-management/)
 - 💼 &nbsp; Working on Open Source Projects & Contract Work in the FinTech Space
 - 🌱 &nbsp; Completing [Relevant Courses](https://github.com/hschickdevs/Relevant-Coursework) to Bolster my Knowledge of Finance and Computer Science
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C++ | Solidity | Swift | JS | SQL
-- 🌐 &nbsp; HTML | CSS  | Flask & Django | Streamlit
+- 🌐 &nbsp; HTML | CSS | Flask & Django | Streamlit
 - 💾 &nbsp; MySQL | PostgreSQL | MongoDB
 - 🔧 &nbsp; Git | Docker | Markdown | GCP | AWS | Azure | GraphQL
 
