@@ -10,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++ | Solidity | Swift | JS | SQL
+- 💻 &nbsp; 3+ YOE Python | C++ | Solidity | Swift | JS | SQL
 - 🌐 &nbsp; HTML | CSS | Flask & Django | Streamlit
 - 💾 &nbsp; MySQL | PostgreSQL | MongoDB
 - 🔧 &nbsp; Git | Docker | Markdown | GCP | AWS | Azure | GraphQL
