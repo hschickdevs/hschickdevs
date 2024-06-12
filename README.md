@@ -5,7 +5,7 @@
 <!-- - 🤔 &nbsp; Enriching my Quantitative Development Skills in Python & C++ -->
 - 🤔 &nbsp; Exploring Opportunities in FinTech & Web3
 - 🎓 &nbsp; Completing Graduate Studies in the University of Texas at Austin [MSITM Program](https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-it-and-management/)
-- 💼 &nbsp; Working on Open Source Projects & Contract Work in the FinTech Space
+- 💼 &nbsp; Working at Stronghold Investment Management in Dallas, TX
 - 🌱 &nbsp; Completing [Relevant Courses](https://github.com/hschickdevs/Relevant-Coursework) to Bolster my Knowledge of Finance and Computer Science
 
 <h3>🛠 Tech Stack</h3>
