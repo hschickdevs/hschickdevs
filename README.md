@@ -3,14 +3,14 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 <!-- - 🤔 &nbsp; Enriching my Quantitative Development Skills in Python & C++ -->
-- 🤔 &nbsp; Exploring Opportunities in FinTech & Web3
-- 🎓 &nbsp; Completing Graduate Studies in the University of Texas at Austin [MSITM Program](https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-it-and-management/)
+- 🤔 &nbsp; Interested in Financial Technology Applied to TradFi and DeFi
+- 🎓 &nbsp; [Undergraduate Degree](https://walton.uark.edu/departments/finance/undergraduate-program.php) from the University of Arkansas | [Masters Degree](https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-it-and-management/) from the University of Texas at Austin
 - 💼 &nbsp; Working at Stronghold Investment Management in Dallas, TX
-- 🌱 &nbsp; Completing [Relevant Courses](https://github.com/hschickdevs/Relevant-Coursework) to Bolster my Knowledge of Finance and Computer Science
+- 🌱 &nbsp; Completing [Relevant Courses](https://github.com/hschickdevs/Relevant-Coursework) to Bolster my Knowledge of Finance and CS
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; 3+ YOE Python | Solidity | Swift | JS | SQL | Learning C++
+- 💻 &nbsp; 3+ YOE Python | Solidity | Swift | JS | SQL | Learning Ruby
 - 🌐 &nbsp; HTML | CSS | Flask & Django | Streamlit
 - 💾 &nbsp; MySQL | PostgreSQL | MongoDB
 - 🔧 &nbsp; Git | Docker | Markdown | GCP | AWS | Azure | GraphQL
