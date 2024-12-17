@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 <!-- - 🤔 &nbsp; Enriching my Quantitative Development Skills in Python & C++ -->
-- 🤔 &nbsp; Passionate About Financial Technology Applied to TradFi and DeFi
+- 🤔 &nbsp; Passionate about Financial Technology Applied to TradFi and DeFi
 - 🎓 &nbsp; [Undergraduate Degree](https://walton.uark.edu/departments/finance/undergraduate-program.php) from the University of Arkansas | [Masters Degree](https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-it-and-management/) from the University of Texas at Austin
 - 💼 &nbsp; Working at Stronghold Investment Management in Dallas, TX
 - 🌱 &nbsp; Completing [Relevant Courses](https://github.com/hschickdevs/Relevant-Coursework) to Bolster my Knowledge of Finance and CS
